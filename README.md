@@ -49,9 +49,9 @@ I build web services and use data to make them better.
 - **링크**: [GitHub](레포 링크)
 
 ## 📚 Learning & Activity
-- 📝 Blog: [블로그 링크]
-- 🧩 알고리즘: [백준/프로그래머스 프로필 링크]
-- 📖 현재 학습 중: SQL 심화, [학습 중인 기술]
+- 
+- 
+- 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[깃허브아이디]&show_icons=true&hide_border=true)
