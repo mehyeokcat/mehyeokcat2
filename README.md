@@ -3,6 +3,8 @@
 Full-stack developer who works with data.
 I build web services and use data to make them better.
 
+🎓 Baekseok University · B.S. in Computer Engineering, AI Track (Expected Feb 2028)
+
 ## 🛠 Tech Stack
 
 ### Frontend
