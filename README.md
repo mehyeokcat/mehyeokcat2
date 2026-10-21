@@ -1,7 +1,7 @@
-# 안녕하세요, 데이터를 다루는 풀스택 개발자 이상혁입니다
+# Hi, I'm Sanghyeok Lee 👋
 
-서비스를 직접 만들고, 그 안에서 쌓이는 데이터를 분석해 개선하는 과정을 좋아합니다.
-화면(Frontend)부터 서버(Backend), 데이터 분석까지 **끝까지 책임지는 개발자**를 목표로 합니다.
+Full-stack developer who works with data.
+I build web services and use data to make them better.
 
 ## 🛠 Tech Stack
 
@@ -32,9 +32,9 @@
 
 ## 📌 Projects
 
-### 🔹 [프로젝트명 1] - 풀스택 웹 서비스
-- **한 줄 소개**: [어떤 문제를 해결하는 서비스인지]
-- **기술 스택**: React, Spring Boot, MySQL
+### 🔹 [학습 분석 서비스] - 풀스택 웹 서비스
+- **한 줄 소개**: 이 프로젝트는 학생들의 학습 이력과 성적 데이터를 관리하고 분석하기 위한 웹 서비스 개발 프로젝트입니다.
+- **기술 스택**: React, Python, MySQL
 - **내 역할**: [로그인 API 설계, 게시판 화면 구현 등]
 - **링크**: [GitHub](레포 링크) | [배포 주소](배포 링크)
 
