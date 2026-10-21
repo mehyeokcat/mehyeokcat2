@@ -28,7 +28,6 @@ I build web services and use data to make them better.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-> 실제로 프로젝트에서 사용해 본 기술만 남겨 두었습니다.
 
 ## 📌 Projects
 
